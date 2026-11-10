@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AI & Full Stack Developer Sheikh Ayan</h1>
+<h1 align="center">Hi 👋, I'm Sheikh Ayan <br> AI & Full Stack Developer</h1>
 <h3 align="center">BTech CSE Student • Aspiring ML Engineer | AI & Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhayan001&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhayan001" /> </p>
